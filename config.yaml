@@ -1,0 +1,62 @@
+# Blue River Project Configuration
+project:
+  id: "blue_river"
+  name: "Blue River Monitoring"
+  description: "Blue River water quality and level monitoring"
+  github_repo: "https://github.com/hfmanifold/Blue_River_Gages_ECI.git"  # Will add later when you set up GitHub
+
+campbell:
+  # UPDATE THIS to where Blue River data is stored
+  data_directory: "C:/Campbellsci/LoggerNet/IFA_Sites"  # Use forward slashes!
+  update_frequency: "every hour"
+  timestamp_column: "TIMESTAMP"
+  skip_rows: 4
+
+gages:
+  # Add your Blue River gages here
+  Wyandotte_Lake_Gage:
+    name: "Wyandotte Lake Gage"
+    active: true
+    source_file: "IFA_Wyandotte_Lake_Wyandotte_15_min.dat"  # UPDATE to actual filename
+    data_file: "Wyandotte_Lake_Gage.csv"
+    parameters:
+      water_level:
+        column_name: "Lvl_ft_Avg"
+        unit: "feet"
+        display_name: "Water Level"
+      temperature:
+        column_name: "Temp_F_2_Avg"
+        unit: "F"
+        display_name: "Water Temperature"
+      sp_cond:
+        column_name: "Sp_Cond_Avg"
+        unit: "mS/cm"
+        display_name: "Specific Conductivity"
+      turbidity:
+        column_name: "Turbidity_Avg"
+        unit: "NTU"
+        display_name: "Turbidity"
+  
+  # Add more Blue River sites as needed
+  Rothrocks_Gage:
+    name: "Rothrocks_Gage"
+    active: true
+    source_file: "IFA_Rothrocks_Rothrocks_15_min.dat"  # UPDATE to actual filename
+    data_file: "Rothrocks_Gage_Gage.csv"
+    parameters:
+      water_level:
+        column_name: "Lvl_ft_Avg"
+        unit: "feet"
+        display_name: "Water Level"
+      temperature:
+        column_name: "Temp_F_2_Avg"
+        unit: "F"
+        display_name: "Water Temperature"
+      sp_cond:
+        column_name: "Sp_Cond_Avg"
+        unit: "mS/cm"
+        display_name: "Specific Conductivity"
+      turbidity:
+        column_name: "Turbidity_Avg"
+        unit: "NTU"
+        display_name: "Turbidity"
