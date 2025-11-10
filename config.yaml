@@ -39,7 +39,7 @@ gages:
   
   # Add more Blue River sites as needed
   Rothrocks_Gage:
-    name: "Rothrocks_Gage"
+    name: "Rothrocks Gage"
     active: true
     source_file: "IFA_Rothrocks_Rothrocks_15_min.dat"  # UPDATE to actual filename
     data_file: "Rothrocks_Gage_Gage.csv"

@@ -8,7 +8,7 @@ Data is updated every hour
 ## Gage Stations
 
 - **Wyandotte Lake Gage** (Wyandotte_Lake_Gage)
-- **Rothrocks_Gage** (Rothrocks_Gage)
+- **Rothrocks Gage** (Rothrocks_Gage)
 
 ## Data Access
 - Raw data files are in the `data/` directory
@@ -19,5 +19,5 @@ Data is updated every hour
 View live dashboard at: 
 
 ---
-*Last updated: 2025-11-10 08:07:03*
+*Last updated: 2025-11-10 09:07:03*
 
