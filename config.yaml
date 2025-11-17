@@ -17,6 +17,7 @@ gages:
   Wyandotte_Lake_Gage:
     name: "Wyandotte Lake Gage"
     active: true
+    image: "IMG_0744.JPG"
     source_file: "IFA_Wyandotte_Lake_Wyandotte_15_min.dat"  # UPDATE to actual filename
     data_file: "Wyandotte_Lake_Gage.csv"
     parameters:
@@ -41,6 +42,7 @@ gages:
   Rothrocks_Gage:
     name: "Rothrocks Gage"
     active: true
+    image: "IMG_0747.JPG"
     source_file: "IFA_Rothrocks_Rothrocks_15_min.dat"  # UPDATE to actual filename
     data_file: "Rothrocks_Gage_Gage.csv"
     parameters:
