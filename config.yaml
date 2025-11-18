@@ -42,7 +42,7 @@ gages:
   Rothrocks_Gage:
     name: "Rothrocks Gage"
     active: true
-    image: "IMG_0747.JPG"
+    image: "IMG_0455.JPG"
     source_file: "IFA_Rothrocks_Rothrocks_15_min.dat"  # UPDATE to actual filename
     data_file: "Rothrocks_Gage_Gage.csv"
     parameters:
