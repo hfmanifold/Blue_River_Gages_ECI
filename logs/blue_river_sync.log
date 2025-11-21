@@ -2282,3 +2282,7 @@
 2025-11-21 17:38:09 - INFO - Pulling latest changes from GitHub... 
 2025-11-21 17:38:09 - WARN - Pull failed: Failed to fetch upstream branch: C:\Users\ECI_LLC\Desktop\Live Data\projects\BlueRiver\repo/main 
 2025-11-21 17:38:09 - INFO - === No changes detected === 
+2025-11-21 17:39:33 - INFO - === Starting sync for project: Blue River Monitoring === 
+2025-11-21 17:39:33 - INFO - Pulling latest changes from GitHub... 
+2025-11-21 17:39:33 - WARN - Pull failed: Failed to fetch upstream branch: C:\Users\ECI_LLC\Desktop\Live Data\projects\BlueRiver\repo/main 
+2025-11-21 17:39:33 - INFO - === No changes detected === 
