@@ -36,7 +36,7 @@ gages:
         display_name: "Water Temperature"
       sp_cond:
         column_name: "Sp_Cond_Avg"
-        unit: "mS/cm"
+        unit: "μS/cm"
         display_name: "Specific Conductivity"
       turbidity:
         column_name: "Turbidity_Avg"
@@ -61,7 +61,7 @@ gages:
         display_name: "Water Temperature"
       sp_cond:
         column_name: "Sp_Cond_Avg"
-        unit: "mS/cm"
+        unit: "μS/cm"
         display_name: "Specific Conductivity"
       turbidity:
         column_name: "Turbidity_Avg"
