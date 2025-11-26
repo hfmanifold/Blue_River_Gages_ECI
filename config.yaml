@@ -5,6 +5,12 @@ project:
   description: "Blue River water quality and level monitoring"
   github_repo: "https://github.com/hfmanifold/Blue_River_Gages_ECI.git"  # Will add later when you set up GitHub
 
+weather:
+  enabled: true
+  latitude: 38.249
+  longitude: -86.269
+  timezone: "America/New_York"
+
 campbell:
   # UPDATE THIS to where Blue River data is stored
   data_directory: "C:/Campbellsci/LoggerNet/IFA_Sites"  # Use forward slashes!
