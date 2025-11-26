@@ -17,7 +17,6 @@ gages:
   Wyandotte_Lake_Gage:
     name: "Wyandotte Lake Gage"
     active: true
-    image: "IMG_0744.JPG"
     source_file: "IFA_Wyandotte_Lake_Wyandotte_15_min.dat"  # UPDATE to actual filename
     data_file: "Wyandotte_Lake_Gage.csv"
     parameters:
