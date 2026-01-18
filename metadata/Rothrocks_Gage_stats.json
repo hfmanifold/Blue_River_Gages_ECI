@@ -1,9 +1,9 @@
 {
   "gage_id": "Rothrocks_Gage",
   "name": "Rothrocks Gage",
-  "updated": "2026-01-18 15:07:04",
+  "updated": "2026-01-18 16:07:04",
   "time_range": {
-    "records": 7025
+    "records": 7029
   },
   "parameters": []
 }
