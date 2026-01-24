@@ -1,9 +1,9 @@
 {
   "gage_id": "Wyandotte_Lake_Gage",
   "name": "Wyandotte Lake Gage",
-  "updated": "2026-01-24 09:07:04",
+  "updated": "2026-01-24 10:07:04",
   "time_range": {
-    "records": 7759
+    "records": 7763
   },
   "parameters": []
 }
