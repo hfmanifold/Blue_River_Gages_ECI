@@ -1,12 +1,12 @@
 {
   "project": "Blue River Monitoring",
-  "last_sync": "2026-01-25 03:07:04",
+  "last_sync": "2026-01-25 04:07:05",
   "update_frequency": "every hour",
   "gages_summary": {
     "Wyandotte_Lake_Gage": {
       "name": "Wyandotte Lake Gage",
       "last_record": {},
-      "record_count": 7831,
+      "record_count": 7835,
       "status": "Active"
     },
     "Rothrocks_Gage": {
