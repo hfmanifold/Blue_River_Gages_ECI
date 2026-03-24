@@ -25603,3 +25603,11 @@
 2026-03-24 07:07:04 - INFO - Updated project metadata 
 2026-03-24 07:07:04 - ERROR - Error in commit/push: failed to parse signature - malformed e-mail 
 2026-03-24 07:07:04 - WARN - === Sync completed but push failed === 
+2026-03-24 08:07:03 - INFO - === Starting sync for project: Blue River Monitoring === 
+2026-03-24 08:07:03 - INFO - Pulling latest changes from GitHub... 
+2026-03-24 08:07:04 - WARN - Pull failed: Failed to fetch upstream branch: C:\Users\ECI_LLC\Desktop\Live Data\projects\BlueRiver\repo/main 
+2026-03-24 08:07:04 - INFO - File updated: IFA_Wyandotte_Lake_Wyandotte_15_min.dat 
+2026-03-24 08:07:04 - INFO - File updated: IFA_Rothrocks_Rothrocks_15_min.dat 
+2026-03-24 08:07:04 - INFO - Updated project metadata 
+2026-03-24 08:07:04 - ERROR - Error in commit/push: failed to parse signature - malformed e-mail 
+2026-03-24 08:07:04 - WARN - === Sync completed but push failed === 
